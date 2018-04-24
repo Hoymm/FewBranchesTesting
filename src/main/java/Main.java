@@ -14,5 +14,9 @@ public class Main {
         // A TU DRUGI NIE WIEDZIAL
         // JA NIE WIEM CO JA TU ROBIE :(
         // Bo jestes kretyn
+
+        // A TEN TU ROZKAZYWAL
+        // WEZ MI STAD WYJDZ!!!!!!!!
+        // NIE WYJDE !!!
     }
 }
