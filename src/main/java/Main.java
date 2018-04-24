@@ -7,5 +7,6 @@ public class Main {
     private static int pomnóżmyTo(int a, int b) {
         return a*b;
         // A NA TO CO MNOZYC ? :P
+        // OJ TO NA CO CHCESZ MOZESZ
     }
 }
