@@ -6,5 +6,6 @@ public class Main {
 
     private static int pomnóżmyTo(int a, int b) {
         return a*b;
+        // WEZ MI STAD WYJDZ!!!!!!!!
     }
 }
