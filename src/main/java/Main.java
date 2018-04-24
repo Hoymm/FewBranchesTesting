@@ -7,5 +7,6 @@ public class Main {
     private static int pomnóżmyTo(int a, int b) {
         return a*b;
         // JA NIE WIEM CO JA TU ROBIE :(
+        // Bo jestes kretyn
     }
 }
